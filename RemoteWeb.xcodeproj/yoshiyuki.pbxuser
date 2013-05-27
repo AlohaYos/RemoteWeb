@@ -1,0 +1,519 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RemoteWebAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{75, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RemoteWebAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{75, 0}";
+			sepNavVisRange = "{0, 805}";
+			sepNavWindowFrame = "{{107, 102}, {940, 837}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* RemoteWeb */ = {
+		activeExec = 0;
+		executables = (
+			FF2B8D67103CBF8C0079AA6A /* RemoteWeb */,
+		);
+	};
+	289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{67, 0}";
+			sepNavVisRange = "{0, 177}";
+		};
+	};
+	289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{67, 0}";
+			sepNavVisRange = "{0, 433}";
+		};
+	};
+	289233A40DB2D0840083E9F9 /* MainView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{63, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	289233A50DB2D0840083E9F9 /* MainView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{63, 0}";
+			sepNavVisRange = "{0, 421}";
+		};
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{73, 0}";
+			sepNavVisRange = "{0, 676}";
+			sepNavWindowFrame = "{{15, 113}, {1068, 910}}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1889, 3088}}";
+			sepNavSelRange = "{6142, 0}";
+			sepNavVisRange = "{5391, 2439}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{0, 712}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 767}}";
+			sepNavSelRange = "{77, 0}";
+			sepNavVisRange = "{46, 1179}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF2B8D67103CBF8C0079AA6A /* RemoteWeb */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RemoteWeb */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RemoteWeb */,
+		);
+		breakpoints = (
+			FF2B8D96103CC4F00079AA6A /* MainViewController.m:119 */,
+			FF482AD8103D412500552972 /* MainViewController.m:167 */,
+			FF482AE0103D421F00552972 /* MainViewController.m:25 */,
+			FF482B2A103D475800552972 /* MainViewController.m:261 */,
+			FF482B56103D504100552972 /* MainViewController.m:88 */,
+			FF482B60103D508000552972 /* MainViewController.m:231 */,
+			FF482B8D103D550400552972 /* MainViewController.m:226 */,
+			FF482BA6103D56FD00552972 /* FlipsideViewController.m:26 */,
+		);
+		codeSenseManager = FF2B8D71103CBFAC0079AA6A /* Code sense */;
+		executables = (
+			FF2B8D67103CBF8C0079AA6A /* RemoteWeb */,
+		);
+		expressions = (
+			getreq_address,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					689,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					649,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307673076;
+			PBXWorkspaceStateSaveDate = 307673076;
+		};
+		perUserProjectItems = {
+			FF3248A8105DCA36003CAF11 /* PBXTextBookmark */ = FF3248A8105DCA36003CAF11 /* PBXTextBookmark */;
+			FF3248A9105DCA36003CAF11 /* PBXTextBookmark */ = FF3248A9105DCA36003CAF11 /* PBXTextBookmark */;
+			FF5868E71256BA5E001C98BF /* PBXTextBookmark */ = FF5868E71256BA5E001C98BF /* PBXTextBookmark */;
+			FF8CE78D1051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE78D1051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE78E1051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE78E1051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE78F1051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE78F1051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE7911051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE7911051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE7921051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE7921051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE7931051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE7931051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE7951051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE7951051BF8A00C03C17 /* PBXTextBookmark */;
+			FF8CE7971051BF8A00C03C17 /* PBXTextBookmark */ = FF8CE7971051BF8A00C03C17 /* PBXTextBookmark */;
+			FFCD127C1059E3D100061339 /* PBXTextBookmark */ = FFCD127C1059E3D100061339 /* PBXTextBookmark */;
+			FFF0F48510A2F68A0047AA8C /* PlistBookmark */ = FFF0F48510A2F68A0047AA8C /* PlistBookmark */;
+			FFF0F48610A2F68A0047AA8C /* PBXTextBookmark */ = FFF0F48610A2F68A0047AA8C /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF2B8D70103CBFAC0079AA6A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{59, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* RemoteWeb_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 654}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	FF2B8D67103CBF8C0079AA6A /* RemoteWeb */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RemoteWeb;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FF2B8D70103CBFAC0079AA6A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF2B8D71103CBFAC0079AA6A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF2B8D96103CC4F00079AA6A /* MainViewController.m:119 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-openWebsite:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 119;
+		location = RemoteWeb;
+		modificationTime = 307673569.449195;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF3248A8105DCA36003CAF11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 5";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 46;
+	};
+	FF3248A9105DCA36003CAF11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RemoteWebAppDelegate.m */;
+		name = "RemoteWebAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 75;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 0;
+	};
+	FF482AD8103D412500552972 /* MainViewController.m:167 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-serverThreadEntry";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 167;
+		location = RemoteWeb;
+		modificationTime = 307673569.449313;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482AE0103D421F00552972 /* MainViewController.m:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-initWithNibName:bundle:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		location = RemoteWeb;
+		modificationTime = 307673569.449406;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482B2A103D475800552972 /* MainViewController.m:261 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-handleWebRequest:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 261;
+		location = RemoteWeb;
+		modificationTime = 307673569.4495;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482B56103D504100552972 /* MainViewController.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-timerTargetCheck:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = RemoteWeb;
+		modificationTime = 307673569.44959;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482B60103D508000552972 /* MainViewController.m:231 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-handleWebRequest:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 231;
+		location = RemoteWeb;
+		modificationTime = 307673569.449688;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482B8D103D550400552972 /* MainViewController.m:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-handleWebRequest:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 226;
+		location = RemoteWeb;
+		modificationTime = 307673569.449803;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF482BA6103D56FD00552972 /* FlipsideViewController.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = RemoteWeb;
+		modificationTime = 307673569.449947;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	FF5868E71256BA5E001C98BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 220";
+		rLen = 0;
+		rLoc = 6142;
+		rType = 0;
+		vrLen = 2439;
+		vrLoc = 5391;
+	};
+	FF8CE78D1051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A40DB2D0840083E9F9 /* MainView.h */;
+		name = "MainView.h: 5";
+		rLen = 0;
+		rLoc = 63;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	FF8CE78E1051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A50DB2D0840083E9F9 /* MainView.m */;
+		name = "MainView.m: 5";
+		rLen = 0;
+		rLoc = 63;
+		rType = 0;
+		vrLen = 421;
+		vrLoc = 0;
+	};
+	FF8CE78F1051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 5";
+		rLen = 0;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 0;
+	};
+	FF8CE7911051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A20DB2D0840083E9F9 /* FlipsideView.h */;
+		name = "FlipsideView.h: 5";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	FF8CE7921051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 5";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	FF8CE7931051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 5";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 0;
+	};
+	FF8CE7951051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RemoteWebAppDelegate.h */;
+		name = "RemoteWebAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 75;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	FF8CE7971051BF8A00C03C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* RemoteWeb_Prefix.pch */;
+		name = "RemoteWeb_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	FFCD127C1059E3D100061339 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 59;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	FFF0F48510A2F68A0047AA8C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RemoteWeb-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/yoshiyuki/Desktop/iPhone進行中/iPhone本/4.iPhone本-サンプル制作/５．RemoteWeb/RemoteWeb/RemoteWeb-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	FFF0F48610A2F68A0047AA8C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 224";
+		rLen = 0;
+		rLoc = 6465;
+		rType = 0;
+		vrLen = 2792;
+		vrLoc = 5029;
+	};
+}
